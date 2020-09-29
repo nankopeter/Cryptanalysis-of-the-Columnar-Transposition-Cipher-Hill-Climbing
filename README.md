@@ -1,2 +1,7 @@
-# Cryptanalysis-of-the-Columnar-Transposition-Cipher-Hill-Climbing
-http://practicalcryptography.com/cryptanalysis/
+###### Cryptanalysis-of-the-Columnar-Transposition-Cipher-Hill-Climbing
+
+:+1: \RESOURCE KNOWLEDGE\* http://practicalcryptography.com/cryptanalysis/
+
+- [x] Finish my changes
+- [ ] Finish automatic restarts and numbers of tries
+- [ ] GUI ?
